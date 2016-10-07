@@ -10,6 +10,10 @@ ul.nav, .jumbotron h1 {
 
 }
 
+.navbar img{
+	padding-top: 15px;
+}
+
 ul.nav {
 	font-size: 16px;
 }
